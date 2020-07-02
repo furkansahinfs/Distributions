@@ -1,0 +1,12 @@
+Monte Carlo Simulations - Continuous
+
+This week, an example implementation is given for both the inverse transformation and the sample rejection method using two different random variables Y and X, respectively. Please, check the example script carefully.
+
+In this assignment, you are expected to implement the rejection method for Y and the inverse transformation method for X.
+
+- For Y, plot the pdf of the distribution.
+
+- For X, plot the cdf of the distribution.
+
+- For both Y and X, plot the histogram and the cumulative sum of histogram values of the generated samples.
+
