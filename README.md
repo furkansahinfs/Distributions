@@ -5,4 +5,4 @@ Probability and Statictics - Codes of Some Distributions
  - Method of Moments
  - Monte Carlo Simulations - Continuous ( Inverse and Rejection )
  
-Please read txt files.
+Please read txt files. 
