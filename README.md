@@ -1,5 +1,4 @@
 # Distributions
-
 Probability and Statictics - Codes of Some Distributions 
  - Central Limit Theorem
  - Method of Moments
